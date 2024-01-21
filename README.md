@@ -17,11 +17,12 @@
 <!--Intro end-->
   </p>
 <br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
 <br>
 <br>
 <hr>
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,java,php,py,css,html,js,nodejs,mysql,sqlite,gtk,git,github,docker,materialui,postman,vscode,bash,ai&perline=12" />
