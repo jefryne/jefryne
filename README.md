@@ -42,6 +42,6 @@
 <br>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefryne&langs_count=10&theme=tokyonight&layout=compact" alt="jefryne :: Top Langs" /></p>
-<img align='right'   width="300" height="300" src="https://github-readme-stats.vercel.app/api?username=LikeRainDay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+<img align='right'   width="500" src="https://github-readme-stats.vercel.app/api?username=jefryne&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
 <!-------------------------->
