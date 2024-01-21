@@ -10,12 +10,15 @@
 
   </p>
 
-<h2>Sobre mi 😃</h2>
+<h2>About me 😃</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 Tecnologo Sena
-<!--Intro end-->
+
+-🌍 Location I'm based in Colombia
+-🎓 Education I'm currently a student of software analysis and development.
+-💬 Ask Me About Ask me about anything, I love to answer!
+-📫 Contact Me Write me at carloshenao0418@gmail.com
   </p>
 <br>
 
