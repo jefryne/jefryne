@@ -21,15 +21,13 @@
 <br>
 -💬 Ask Me About Ask me about anything, I love to answer!
 <br>
--📫 Contact Me Write me at carloshenao0418@gmail.com
+-📫 Contact Me Write me at 
 <br>
   </p>
 <br>
 
 
 <!--tech stack icons-->
-<br>
-<br>
 <br>
 <br>
 <br>
