@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋  soy Jeffry Nunez ✨ </h1> 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-
+<br>
+<br>
+<hr>
 <p align="left">
   <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@jefryne"  /></a>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
