@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Jeffry Nunez ✨ </h1> 
+<h1 align="center">Hola 👋  soy Jeffry Nunez ✨ <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200"></h1> 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <p align="left">
