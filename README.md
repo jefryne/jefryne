@@ -8,10 +8,7 @@
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
 
   </p>
-<br>
-<br>
-<br>
-<hr>
+
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
@@ -30,6 +27,9 @@
 </p>
 <br>
 <h4 align="center">Top langs :tongue:</h4>
-
+<br>
+<br>
+<br>
+<hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefryne&langs_count=10&theme=tokyonight&layout=compact" alt="jefryne :: Top Langs" /></p>
 <!-------------------------->
