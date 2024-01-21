@@ -17,7 +17,9 @@
 <!--Intro end-->
   </p>
 <br>
-
+<br>
+<br>
+<hr>
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
@@ -28,8 +30,6 @@
 <br>
 <h4 align="center">Top langs :tongue:</h4>
 <br>
-<br>
-<br>
-<hr>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefryne&langs_count=10&theme=tokyonight&layout=compact" alt="jefryne :: Top Langs" /></p>
 <!-------------------------->
