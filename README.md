@@ -18,7 +18,7 @@
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+
 <!--tech stack icons-->
 <br>
 <br>
@@ -26,6 +26,7 @@
 <br>
 <br>
 <br>
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <hr>
 <p align="left">
   <a href="https://skillicons.dev">
