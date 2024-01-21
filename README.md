@@ -38,6 +38,6 @@
 <br>
 <h4 align="center">Top langs :tongue:</h4>
 <br>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefryne&langs_count=10&theme=tokyonight&layout=compact" alt="jefryne :: Top Langs" /></p>
+<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefryne&langs_count=10&theme=tokyonight&layout=compact" alt="jefryne :: Top Langs" /></p>
 <!-------------------------->
