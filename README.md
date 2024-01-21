@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Jeffry Nunez <img align="right" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50" height="50"></h1> 
+<h1 align="center">hi i'm jeffry nuñez 👋 <img align="right" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50" height="50"></h1> 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
@@ -34,7 +34,7 @@
 <br>
 <br>
 <br>
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Known technologies👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,java,php,py,css,html,js,nodejs,mysql,sqlite,gtk,git,github,docker,materialui,postman,vscode,bash,ai&perline=12" />
