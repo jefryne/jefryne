@@ -16,9 +16,13 @@
 <p align="left">
 
 -🌍 Location I'm based in Colombia
+<br>
 -🎓 Education I'm currently a student of software analysis and development.
+<br>
 -💬 Ask Me About Ask me about anything, I love to answer!
+<br>
 -📫 Contact Me Write me at carloshenao0418@gmail.com
+<br>
   </p>
 <br>
 
