@@ -40,21 +40,5 @@
 <br>
 <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefryne&langs_count=10&theme=tokyonight&layout=compact" alt="jefryne :: Top Langs" /></p>
-<table width="100%"  border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=benyou1969&show_icons=true&theme=dracula" />
-    </td>
-    <td align="center">
-      <a href="https://benyou.me">
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" />
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <br>
-        <strong>Visit my personal website </strong>
-    </td>
-  </tr>
-</table>
+<img align='right'   width="300" src="https://github-readme-stats.vercel.app/api?username=LikeRainDay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 <!-------------------------->
