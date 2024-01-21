@@ -22,6 +22,10 @@
 <!--tech stack icons-->
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 <hr>
 <p align="left">
   <a href="https://skillicons.dev">
