@@ -1,4 +1,4 @@
-<h1 align="center">Hi i'm jeffry nuñez 👋 <img align="right" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50" height="50"></h1> 
+<h1 align="center">Hi i'm Jeffry Nuñez 👋 <img align="right" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50" height="50"></h1> 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
